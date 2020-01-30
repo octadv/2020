@@ -4,24 +4,16 @@
 <script>
   window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
-  googletag.defineSlot('/21633779192/d_banner_1', [728, 90], 'div-gpt-ad-1573993855341-0').addService(googletag.pubads());
-  googletag.defineSlot('/21633779192/d_aftercontent_1', [300, 250], 'div-gpt-ad-1573798900952-0').addService(googletag.pubads());
+
 googletag.defineSlot('/21633779192/m_banner_1', [320, 50], 'div-gpt-ad-1573971984304-0').addService(googletag.pubads());
  googletag.defineSlot('/21633779192/m_aftercontent_1', [300, 250], 'div-gpt-ad-1573972786342-0').addService(googletag.pubads());
     googletag.pubads().enableSingleRequest();
     googletag.pubads().collapseEmptyDivs();
-
     googletag.enableServices();
   });
 </script>
 
 
-<!-- /21633779192/d_banner_1 -->
-<div id='div-gpt-ad-1573993855341-0' style='width: 728px; height: 90px; margin: auto;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573993855341-0'); });
-  </script>
-</div>
 
 <!-- /21633779192/m_banner_1 -->
 <div id='div-gpt-ad-1573971984304-0' style='width: 320px; height: 50px; margin:auto;'>
@@ -98,12 +90,6 @@ Una versione speciale e limitata della Chiron, più estrema della Chiron Sport: 
 
 Con il più recente modello, creato per i 110 anni di storia del brand, Bugatti ha battuto ogni record di prezzo: La Voiture Noire costa 18,9 milioni di euro, tasse incluse, e personalizzazioni escluse. Una cifra incredibile per un’auto nuova che si colloca in cima alle più costose del mondo e che sarà a lungo un pezzo da collezione tra i più ambiti.
 
-<!-- /21633779192/d_aftercontent_1 -->
-<div id='div-gpt-ad-1573798900952-0' style='height:300px; width:250px; margin: auto;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573798900952-0'); });
-  </script>
-</div>
 
 <!-- /21633779192/m_aftercontent_1 -->
 <div id='div-gpt-ad-1573972786342-0' style='width: 300px; height: 250px; margin: auto;'>
