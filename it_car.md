@@ -16,16 +16,23 @@ googletag.defineSlot('/21633779192/m_banner_1', [320, 50], 'div-gpt-ad-157397198
 </script>
 
 
-
-# Le 10 auto più costose al mondo: la classifica 2019
-
-
 <!-- /21633779192/d_banner_1 -->
 <div id='div-gpt-ad-1573993855341-0' style='width: 728px; height: 90px; margin: auto;'>
   <script>
     googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573993855341-0'); });
   </script>
 </div>
+
+<!-- /21633779192/m_banner_1 -->
+<div id='div-gpt-ad-1573971984304-0' style='width: 320px; height: 50px; margin:auto;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573971984304-0'); });
+  </script>
+</div>
+
+# Le 10 auto più costose al mondo: la classifica 2019
+
+
 
 Quali sono le **auto più costose del 2019**? C’è sempre qualcosa di sublime nel guardare modelli di automobili inarrivabili, così eccessivi da sembrare esagerati anche nella collezione di un miliardario. Invece il mercato del lusso non conosce crisi, e i brand specializzati sembrano fare a gara per avere un posto su questa speciale **classifica**.
 
@@ -37,12 +44,7 @@ Vediamo la **classifica** delle 10 **auto di lusso** più costose al mondo, dove
 
 ### Auto più costose al mondo: classifica 2019
 
-<!-- /21633779192/d_aftercontent_1 -->
-<div id='div-gpt-ad-1573798900952-0' style='height:300px; width:250px; float:left;'>
-  <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573798900952-0'); });
-  </script>
-</div>
+
 
 
 Ecco le **auto più costose** attualmente, già in catalogo o in arrivo. Il prezzo è in dollari, dato che alcuni modelli sono per il mercato estero. In molti casi, la produzione - spesso limitata a una manciata di esemplari - è andata venduta prima ancora di essere terminata.
@@ -95,3 +97,17 @@ A Maranello hanno fortemente voluto questa hypercar non omologabile né per la s
 Una versione speciale e limitata della Chiron, più estrema della Chiron Sport: dedicata al pilota francese, è il non plus ultra in termini di potenza, comodità di guida e aerodinamicità, visto che in questa versione l’auto è ancora più ribassata e leggera.
 
 Con il più recente modello, creato per i 110 anni di storia del brand, Bugatti ha battuto ogni record di prezzo: La Voiture Noire costa 18,9 milioni di euro, tasse incluse, e personalizzazioni escluse. Una cifra incredibile per un’auto nuova che si colloca in cima alle più costose del mondo e che sarà a lungo un pezzo da collezione tra i più ambiti.
+
+<!-- /21633779192/d_aftercontent_1 -->
+<div id='div-gpt-ad-1573798900952-0' style='height:300px; width:250px; margin: auto;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573798900952-0'); });
+  </script>
+</div>
+
+<!-- /21633779192/m_aftercontent_1 -->
+<div id='div-gpt-ad-1573972786342-0' style='width: 300px; height: 250px; margin: auto;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573972786342-0'); });
+  </script>
+</div>
