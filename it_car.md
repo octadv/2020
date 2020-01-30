@@ -1,8 +1,31 @@
 <script src='//js.octadv.com/50a1ko.php'></script>
 
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+  googletag.defineSlot('/21633779192/d_banner_1', [728, 90], 'div-gpt-ad-1573993855341-0').addService(googletag.pubads());
+  googletag.defineSlot('/21633779192/d_aftercontent_1', [300, 250], 'div-gpt-ad-1573798900952-0').addService(googletag.pubads());
+googletag.defineSlot('/21633779192/m_banner_1', [320, 50], 'div-gpt-ad-1573971984304-0').addService(googletag.pubads());
+ googletag.defineSlot('/21633779192/m_aftercontent_1', [300, 250], 'div-gpt-ad-1573972786342-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+
+    googletag.enableServices();
+  });
+</script>
+
+
+
 # Le 10 auto più costose al mondo: la classifica 2019
 
----
+
+<!-- /21633779192/d_banner_1 -->
+<div id='div-gpt-ad-1573993855341-0' style='width: 728px; height: 90px; margin: auto;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573993855341-0'); });
+  </script>
+</div>
 
 Quali sono le **auto più costose del 2019**? C’è sempre qualcosa di sublime nel guardare modelli di automobili inarrivabili, così eccessivi da sembrare esagerati anche nella collezione di un miliardario. Invece il mercato del lusso non conosce crisi, e i brand specializzati sembrano fare a gara per avere un posto su questa speciale **classifica**.
 
@@ -13,6 +36,14 @@ Spesso chi acquista uno di questi modelli non lo fa per muoversi, ma per collezi
 Vediamo la **classifica** delle 10 **auto di lusso** più costose al mondo, dove troviamo auto di diverso tipo ma soprattutto super sportive il cui prezzo è dovuto a motori da capogiro con materiali e finiture di altissimo pregio che ne consentono performance al limite della legalità. La qualità artigianale è un requisito fondamentale, ed è per questo che la produzione è spesso limitata a pochi esemplari.
 
 ### Auto più costose al mondo: classifica 2019
+
+<!-- /21633779192/d_aftercontent_1 -->
+<div id='div-gpt-ad-1573798900952-0' style='height:300px; width:250px; float:left;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1573798900952-0'); });
+  </script>
+</div>
+
 
 Ecco le **auto più costose** attualmente, già in catalogo o in arrivo. Il prezzo è in dollari, dato che alcuni modelli sono per il mercato estero. In molti casi, la produzione - spesso limitata a una manciata di esemplari - è andata venduta prima ancora di essere terminata.
 
