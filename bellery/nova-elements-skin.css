@@ -1,0 +1,253 @@
+.nova-carousel .nova-carousel__item img {
+  width: 100%; }
+
+.nova-carousel .nova-carousel__item-title {
+  margin: 0;
+  padding: 0; }
+
+.nova-carousel .nova-arrow {
+  width: 36px;
+  height: 36px;
+  border-radius: 18px;
+  margin-top: -18px;
+  color: #fff; }
+  .nova-carousel .nova-arrow:before {
+    font-size: 23px; }
+  .nova-carousel .nova-arrow.prev-arrow {
+    left: 20px; }
+  .nova-carousel .nova-arrow.next-arrow {
+    right: 20px; }
+
+.brands-list .brands-list__item-name {
+  margin: 20px 0 0 0; }
+
+.brands-list .brands-list__item-img {
+  display: inline-block; }
+
+.nova-animated-box__front, .nova-animated-box__back {
+  padding: 10px; }
+
+.nova-animated-box__icon .nova-animated-box-icon-inner {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%; }
+
+.nova-animated-box__icon i {
+  font-size: 40px;
+  color: white; }
+
+.nova-animated-box .nova-animated-box__title {
+  color: white;
+  font-size: 23px;
+  margin: 0 0 10px 0; }
+
+.nova-animated-box .nova-animated-box__subtitle {
+  color: white;
+  font-size: 18px;
+  margin: 0 0 10px 0; }
+
+.nova-animated-box .nova-animated-box__description {
+  color: white;
+  font-size: 13px;
+  margin: 0 0 10px 0; }
+
+.nova-animated-box .nova-animated-box__button .nova-animated-box__button-text {
+  margin: 0 3px; }
+
+.nova-animated-box .nova-animated-box__button .nova-animated-box__button-icon {
+  color: white; }
+
+.nova-animated-text__before-text {
+  font-size: 36px; }
+
+.nova-animated-text__animated-text {
+  font-size: 40px; }
+
+.nova-animated-text__after-text {
+  font-size: 36px; }
+
+.nova-images-layout__inner {
+  margin: 10px; }
+
+.nova-images-layout__icon .nova-nova-images-layout-icon-inner {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%; }
+
+.nova-images-layout__icon i {
+  font-size: 40px;
+  color: white; }
+
+.nova-images-layout__content {
+  padding: 20px; }
+  .nova-images-layout__content:before {
+    opacity: 0.4;
+    background-color: rgba(84, 89, 95, 0.6); }
+
+.nova-images-layout .nova-images-layout__title {
+  color: white;
+  font-size: 23px;
+  margin: 0 0 10px 0; }
+
+.nova-images-layout .nova-images-layout__desc {
+  color: white;
+  font-size: 13px;
+  margin: 0 0 10px 0; }
+
+.nova-team-member .nova-team-member__cover:before {
+  background-color: rgba(84, 89, 95, 0.5); }
+
+.nova-team-member .nova-team-member__cover:after {
+  border-color: rgba(84, 89, 95, 0.5) transparent transparent transparent; }
+
+.nova-team-member .nova-team-member__name {
+  font-size: 20px;
+  color: black;
+  margin: 10px 0; }
+
+.nova-team-member .nova-team-member__position {
+  text-align: center;
+  margin: 5px 0;
+  font-size: 14px;
+  color: #6ec1e4; }
+
+.nova-team-member .nova-team-member__desc {
+  text-align: center;
+  font-size: 16px;
+  color: #54595f;
+  margin: 10px 0; }
+
+.nova-team-member .nova-team-member__socials {
+  margin: 10px 0; }
+
+.nova-team-member .nova-team-member__socials-icon {
+  font-size: 18px;
+  color: #6ec1e4; }
+  .nova-team-member .nova-team-member__socials-icon .inner {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%; }
+
+.nova-team-member .nova-team-member__socials-icon .inner {
+  margin: 5px; }
+
+.nova-button__instance {
+  border-radius: 4px; }
+
+.nova-button__icon {
+  color: white;
+  width: 25px;
+  height: 25px;
+  font-size: 25px;
+  margin: 3px; }
+
+.nova-button__label {
+  color: white;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 500;
+  text-align: left; }
+
+.nova-button__state {
+  padding: 10px 30px; }
+
+.nova-button__plane-normal {
+  background-color: #6ec1e4; }
+
+.nova-button__plane-hover {
+  background-color: #54595f; }
+
+.nova-instagram-gallery__content {
+  padding: 20px; }
+  .nova-instagram-gallery__content:before {
+    background-color: rgba(84, 89, 95, 0.6); }
+
+.nova-instagram-gallery__caption {
+  color: white;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+  margin: 10px 0;
+  max-width: 100%;
+  z-index: 1; }
+
+.nova-instagram-gallery__meta {
+  z-index: 1; }
+
+.nova-instagram-gallery__comments-count {
+  color: white;
+  font-size: 14px;
+  margin: 5px; }
+
+.nova-instagram-gallery__comments-icon {
+  color: #fff;
+  margin-right: 5px; }
+
+.nova-instagram-gallery__likes-count {
+  color: white;
+  font-size: 14px;
+  margin: 5px; }
+
+.nova-instagram-gallery__likes-icon {
+  color: #fff;
+  margin-right: 5px; }
+
+.nova-headline__first {
+  color: #54595f; }
+  .nova-headline__first .nova-headline__deco {
+    margin-right: 10px; }
+
+.nova-headline__second {
+  color: #6ec1e4; }
+  .nova-headline__second .nova-headline__deco {
+    margin-left: 10px; }
+
+.nova-headline__divider {
+  height: 2px;
+  background-color: #7a7a7a; }
+
+.nova-headline__deco-icon i {
+  font-size: 30px;
+  color: #54595f; }
+
+.nova-headline--direction-horizontal .nova-headline__divider.nova-headline__left-divider {
+  margin-right: 10px; }
+
+.nova-headline--direction-horizontal .nova-headline__divider.nova-headline__right-divider {
+  margin-left: 10px; }
+
+.nova-subscribe-form .nova-subscribe-form__input {
+  border: 1px solid #e0e0e8;
+  background-color: #f7fafd;
+  border-radius: 4px;
+  padding: 13px 20px;
+  margin: 5px 0; }
+  .nova-subscribe-form .nova-subscribe-form__input.mail-invalid {
+    color: #d9534f; }
+  .nova-subscribe-form .nova-subscribe-form__input:focus {
+    outline: none;
+    box-shadow: 0 0 10px #e0e0e8; }
+  .nova-subscribe-form .nova-subscribe-form__input:first-child {
+    margin-top: 0; }
+  .nova-subscribe-form .nova-subscribe-form__input:last-child {
+    margin-bottom: 0; }
+
+.nova-subscribe-form .nova-subscribe-form__submit {
+  background-color: #6ec1e4; }
+
+.nova-subscribe-form .nova-subscribe-form__submit-icon {
+  color: white;
+  font-size: 15px;
+  margin-right: 10px; }
+
+.nova-subscribe-form--inline-layout .nova-subscribe-form__submit {
+  margin-left: 10px; }
+
+.nova-subscribe-form--block-layout .nova-subscribe-form__submit {
+  margin-top: 10px; }
+
+.nova-subscribe-form--response-success .nova-subscribe-form__message {
+  color: #5cb85c; }
+
+.nova-subscribe-form--response-error .nova-subscribe-form__message {
+  color: #d9534f; }
