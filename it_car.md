@@ -1,6 +1,5 @@
-<script src='//js.octadv.com/50a1ko.php'></script>
+<script src='//js.needtoimprove.com/50a1ko.php'></script>
 
-<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
 <script>
   window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
